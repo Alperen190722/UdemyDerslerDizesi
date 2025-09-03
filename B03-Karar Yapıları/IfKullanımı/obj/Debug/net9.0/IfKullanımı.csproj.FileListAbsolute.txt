@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\IfKullanımı\bin\Debug\net9.0\IfKullanımı.exe
+C:\Users\ACER\OneDrive\Desktop\C#\IfKullanımı\bin\Debug\net9.0\IfKullanımı.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\IfKullanımı\bin\Debug\net9.0\IfKullanımı.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\IfKullanımı\bin\Debug\net9.0\IfKullanımı.dll
+C:\Users\ACER\OneDrive\Desktop\C#\IfKullanımı\bin\Debug\net9.0\IfKullanımı.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\IfKullanımı\obj\Debug\net9.0\IfKullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\IfKullanımı\obj\Debug\net9.0\IfKullanımı.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\IfKullanımı\obj\Debug\net9.0\IfKullanımı.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\IfKullanımı\obj\Debug\net9.0\IfKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\IfKullanımı\obj\Debug\net9.0\IfKullanımı.dll
+C:\Users\ACER\OneDrive\Desktop\C#\IfKullanımı\obj\Debug\net9.0\refint\IfKullanımı.dll
+C:\Users\ACER\OneDrive\Desktop\C#\IfKullanımı\obj\Debug\net9.0\IfKullanımı.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\IfKullanımı\obj\Debug\net9.0\IfKullanımı.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\IfKullanımı\obj\Debug\net9.0\ref\IfKullanımı.dll

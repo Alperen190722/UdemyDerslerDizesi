@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\MiniUygulama1\bin\Debug\net9.0\MiniUygulama1.exe
+C:\Users\ACER\OneDrive\Desktop\C#\MiniUygulama1\bin\Debug\net9.0\MiniUygulama1.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\MiniUygulama1\bin\Debug\net9.0\MiniUygulama1.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\MiniUygulama1\bin\Debug\net9.0\MiniUygulama1.dll
+C:\Users\ACER\OneDrive\Desktop\C#\MiniUygulama1\bin\Debug\net9.0\MiniUygulama1.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\MiniUygulama1\obj\Debug\net9.0\MiniUygulama1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\MiniUygulama1\obj\Debug\net9.0\MiniUygulama1.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MiniUygulama1\obj\Debug\net9.0\MiniUygulama1.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\MiniUygulama1\obj\Debug\net9.0\MiniUygulama1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MiniUygulama1\obj\Debug\net9.0\MiniUygulama1.dll
+C:\Users\ACER\OneDrive\Desktop\C#\MiniUygulama1\obj\Debug\net9.0\refint\MiniUygulama1.dll
+C:\Users\ACER\OneDrive\Desktop\C#\MiniUygulama1\obj\Debug\net9.0\MiniUygulama1.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\MiniUygulama1\obj\Debug\net9.0\MiniUygulama1.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MiniUygulama1\obj\Debug\net9.0\ref\MiniUygulama1.dll

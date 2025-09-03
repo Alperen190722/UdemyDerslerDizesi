@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseKullanımı\bin\Debug\net9.0\SwitchCaseKullanımı.exe
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseKullanımı\bin\Debug\net9.0\SwitchCaseKullanımı.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseKullanımı\bin\Debug\net9.0\SwitchCaseKullanımı.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseKullanımı\bin\Debug\net9.0\SwitchCaseKullanımı.dll
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseKullanımı\bin\Debug\net9.0\SwitchCaseKullanımı.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseKullanımı\obj\Debug\net9.0\SwitchCaseKullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseKullanımı\obj\Debug\net9.0\SwitchCaseKullanımı.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseKullanımı\obj\Debug\net9.0\SwitchCaseKullanımı.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseKullanımı\obj\Debug\net9.0\SwitchCaseKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseKullanımı\obj\Debug\net9.0\SwitchCaseKullanımı.dll
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseKullanımı\obj\Debug\net9.0\refint\SwitchCaseKullanımı.dll
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseKullanımı\obj\Debug\net9.0\SwitchCaseKullanımı.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseKullanımı\obj\Debug\net9.0\SwitchCaseKullanımı.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseKullanımı\obj\Debug\net9.0\ref\SwitchCaseKullanımı.dll

@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\ObjectVeriTipi\bin\Debug\net9.0\ObjectVeriTipi.exe
+C:\Users\ACER\OneDrive\Desktop\C#\ObjectVeriTipi\bin\Debug\net9.0\ObjectVeriTipi.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\ObjectVeriTipi\bin\Debug\net9.0\ObjectVeriTipi.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\ObjectVeriTipi\bin\Debug\net9.0\ObjectVeriTipi.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ObjectVeriTipi\bin\Debug\net9.0\ObjectVeriTipi.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ObjectVeriTipi\obj\Debug\net9.0\ObjectVeriTipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\ObjectVeriTipi\obj\Debug\net9.0\ObjectVeriTipi.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ObjectVeriTipi\obj\Debug\net9.0\ObjectVeriTipi.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\ObjectVeriTipi\obj\Debug\net9.0\ObjectVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ObjectVeriTipi\obj\Debug\net9.0\ObjectVeriTipi.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ObjectVeriTipi\obj\Debug\net9.0\refint\ObjectVeriTipi.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ObjectVeriTipi\obj\Debug\net9.0\ObjectVeriTipi.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ObjectVeriTipi\obj\Debug\net9.0\ObjectVeriTipi.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ObjectVeriTipi\obj\Debug\net9.0\ref\ObjectVeriTipi.dll

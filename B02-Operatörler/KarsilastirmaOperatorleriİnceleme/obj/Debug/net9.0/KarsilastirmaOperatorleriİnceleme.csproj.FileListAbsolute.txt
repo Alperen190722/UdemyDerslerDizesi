@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\KarsilastirmaOperatorleriİnceleme\bin\Debug\net9.0\KarsilastirmaOperatorleriİnceleme.exe
+C:\Users\ACER\OneDrive\Desktop\C#\KarsilastirmaOperatorleriİnceleme\bin\Debug\net9.0\KarsilastirmaOperatorleriİnceleme.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\KarsilastirmaOperatorleriİnceleme\bin\Debug\net9.0\KarsilastirmaOperatorleriİnceleme.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\KarsilastirmaOperatorleriİnceleme\bin\Debug\net9.0\KarsilastirmaOperatorleriİnceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\KarsilastirmaOperatorleriİnceleme\bin\Debug\net9.0\KarsilastirmaOperatorleriİnceleme.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\KarsilastirmaOperatorleriİnceleme\obj\Debug\net9.0\KarsilastirmaOperatorleriİnceleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\KarsilastirmaOperatorleriİnceleme\obj\Debug\net9.0\KarsilastirmaOperatorleriİnceleme.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\KarsilastirmaOperatorleriİnceleme\obj\Debug\net9.0\KarsilastirmaOperatorleriİnceleme.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\KarsilastirmaOperatorleriİnceleme\obj\Debug\net9.0\KarsilastirmaOperatorleriİnceleme.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\KarsilastirmaOperatorleriİnceleme\obj\Debug\net9.0\KarsilastirmaOperatorleriİnceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\KarsilastirmaOperatorleriİnceleme\obj\Debug\net9.0\refint\KarsilastirmaOperatorleriİnceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\KarsilastirmaOperatorleriİnceleme\obj\Debug\net9.0\KarsilastirmaOperatorleriİnceleme.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\KarsilastirmaOperatorleriİnceleme\obj\Debug\net9.0\KarsilastirmaOperatorleriİnceleme.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\KarsilastirmaOperatorleriİnceleme\obj\Debug\net9.0\ref\KarsilastirmaOperatorleriİnceleme.dll

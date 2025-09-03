@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\BoolenDegiskenInceleme\bin\Debug\net9.0\BoolenDegiskenInceleme.exe
+C:\Users\ACER\OneDrive\Desktop\C#\BoolenDegiskenInceleme\bin\Debug\net9.0\BoolenDegiskenInceleme.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\BoolenDegiskenInceleme\bin\Debug\net9.0\BoolenDegiskenInceleme.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\BoolenDegiskenInceleme\bin\Debug\net9.0\BoolenDegiskenInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\BoolenDegiskenInceleme\bin\Debug\net9.0\BoolenDegiskenInceleme.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\BoolenDegiskenInceleme\obj\Debug\net9.0\BoolenDegiskenInceleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\BoolenDegiskenInceleme\obj\Debug\net9.0\BoolenDegiskenInceleme.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\BoolenDegiskenInceleme\obj\Debug\net9.0\BoolenDegiskenInceleme.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\BoolenDegiskenInceleme\obj\Debug\net9.0\BoolenDegiskenInceleme.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\BoolenDegiskenInceleme\obj\Debug\net9.0\BoolenDegiskenInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\BoolenDegiskenInceleme\obj\Debug\net9.0\refint\BoolenDegiskenInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\BoolenDegiskenInceleme\obj\Debug\net9.0\BoolenDegiskenInceleme.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\BoolenDegiskenInceleme\obj\Debug\net9.0\BoolenDegiskenInceleme.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\BoolenDegiskenInceleme\obj\Debug\net9.0\ref\BoolenDegiskenInceleme.dll

@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\AritmatikselIslemler\bin\Debug\net9.0\AritmatikselIslemler.exe
+C:\Users\ACER\OneDrive\Desktop\C#\AritmatikselIslemler\bin\Debug\net9.0\AritmatikselIslemler.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\AritmatikselIslemler\bin\Debug\net9.0\AritmatikselIslemler.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\AritmatikselIslemler\bin\Debug\net9.0\AritmatikselIslemler.dll
+C:\Users\ACER\OneDrive\Desktop\C#\AritmatikselIslemler\bin\Debug\net9.0\AritmatikselIslemler.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\AritmatikselIslemler\obj\Debug\net9.0\AritmatikselIslemler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\AritmatikselIslemler\obj\Debug\net9.0\AritmatikselIslemler.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\AritmatikselIslemler\obj\Debug\net9.0\AritmatikselIslemler.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\AritmatikselIslemler\obj\Debug\net9.0\AritmatikselIslemler.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\AritmatikselIslemler\obj\Debug\net9.0\AritmatikselIslemler.dll
+C:\Users\ACER\OneDrive\Desktop\C#\AritmatikselIslemler\obj\Debug\net9.0\refint\AritmatikselIslemler.dll
+C:\Users\ACER\OneDrive\Desktop\C#\AritmatikselIslemler\obj\Debug\net9.0\AritmatikselIslemler.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\AritmatikselIslemler\obj\Debug\net9.0\AritmatikselIslemler.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\AritmatikselIslemler\obj\Debug\net9.0\ref\AritmatikselIslemler.dll

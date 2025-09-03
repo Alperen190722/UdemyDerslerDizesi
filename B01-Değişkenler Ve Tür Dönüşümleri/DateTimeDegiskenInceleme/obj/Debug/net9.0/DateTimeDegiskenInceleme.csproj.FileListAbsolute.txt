@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\DateTimeDegiskenInceleme\bin\Debug\net9.0\DateTimeDegiskenInceleme.exe
+C:\Users\ACER\OneDrive\Desktop\C#\DateTimeDegiskenInceleme\bin\Debug\net9.0\DateTimeDegiskenInceleme.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\DateTimeDegiskenInceleme\bin\Debug\net9.0\DateTimeDegiskenInceleme.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\DateTimeDegiskenInceleme\bin\Debug\net9.0\DateTimeDegiskenInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\DateTimeDegiskenInceleme\bin\Debug\net9.0\DateTimeDegiskenInceleme.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\DateTimeDegiskenInceleme\obj\Debug\net9.0\DateTimeDegiskenInceleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\DateTimeDegiskenInceleme\obj\Debug\net9.0\DateTimeDegiskenInceleme.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\DateTimeDegiskenInceleme\obj\Debug\net9.0\DateTimeDegiskenInceleme.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\DateTimeDegiskenInceleme\obj\Debug\net9.0\DateTimeDegiskenInceleme.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\DateTimeDegiskenInceleme\obj\Debug\net9.0\DateTimeDegiskenInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\DateTimeDegiskenInceleme\obj\Debug\net9.0\refint\DateTimeDegiskenInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\DateTimeDegiskenInceleme\obj\Debug\net9.0\DateTimeDegiskenInceleme.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\DateTimeDegiskenInceleme\obj\Debug\net9.0\DateTimeDegiskenInceleme.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\DateTimeDegiskenInceleme\obj\Debug\net9.0\ref\DateTimeDegiskenInceleme.dll

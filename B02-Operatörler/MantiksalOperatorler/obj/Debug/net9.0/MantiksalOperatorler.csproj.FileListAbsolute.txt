@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\MantiksalOperatorler\bin\Debug\net9.0\MantiksalOperatorler.exe
+C:\Users\ACER\OneDrive\Desktop\C#\MantiksalOperatorler\bin\Debug\net9.0\MantiksalOperatorler.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\MantiksalOperatorler\bin\Debug\net9.0\MantiksalOperatorler.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\MantiksalOperatorler\bin\Debug\net9.0\MantiksalOperatorler.dll
+C:\Users\ACER\OneDrive\Desktop\C#\MantiksalOperatorler\bin\Debug\net9.0\MantiksalOperatorler.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\MantiksalOperatorler\obj\Debug\net9.0\MantiksalOperatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\MantiksalOperatorler\obj\Debug\net9.0\MantiksalOperatorler.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MantiksalOperatorler\obj\Debug\net9.0\MantiksalOperatorler.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\MantiksalOperatorler\obj\Debug\net9.0\MantiksalOperatorler.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MantiksalOperatorler\obj\Debug\net9.0\MantiksalOperatorler.dll
+C:\Users\ACER\OneDrive\Desktop\C#\MantiksalOperatorler\obj\Debug\net9.0\refint\MantiksalOperatorler.dll
+C:\Users\ACER\OneDrive\Desktop\C#\MantiksalOperatorler\obj\Debug\net9.0\MantiksalOperatorler.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\MantiksalOperatorler\obj\Debug\net9.0\MantiksalOperatorler.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MantiksalOperatorler\obj\Debug\net9.0\ref\MantiksalOperatorler.dll

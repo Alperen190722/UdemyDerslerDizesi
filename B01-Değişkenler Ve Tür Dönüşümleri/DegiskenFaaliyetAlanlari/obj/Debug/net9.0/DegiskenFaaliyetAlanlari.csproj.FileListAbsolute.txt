@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\DegiskenFaaliyetAlanlari\bin\Debug\net9.0\DegiskenFaaliyetAlanlari.exe
+C:\Users\ACER\OneDrive\Desktop\C#\DegiskenFaaliyetAlanlari\bin\Debug\net9.0\DegiskenFaaliyetAlanlari.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\DegiskenFaaliyetAlanlari\bin\Debug\net9.0\DegiskenFaaliyetAlanlari.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\DegiskenFaaliyetAlanlari\bin\Debug\net9.0\DegiskenFaaliyetAlanlari.dll
+C:\Users\ACER\OneDrive\Desktop\C#\DegiskenFaaliyetAlanlari\bin\Debug\net9.0\DegiskenFaaliyetAlanlari.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\DegiskenFaaliyetAlanlari\obj\Debug\net9.0\DegiskenFaaliyetAlanlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\DegiskenFaaliyetAlanlari\obj\Debug\net9.0\DegiskenFaaliyetAlanlari.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\DegiskenFaaliyetAlanlari\obj\Debug\net9.0\DegiskenFaaliyetAlanlari.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\DegiskenFaaliyetAlanlari\obj\Debug\net9.0\DegiskenFaaliyetAlanlari.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\DegiskenFaaliyetAlanlari\obj\Debug\net9.0\DegiskenFaaliyetAlanlari.dll
+C:\Users\ACER\OneDrive\Desktop\C#\DegiskenFaaliyetAlanlari\obj\Debug\net9.0\refint\DegiskenFaaliyetAlanlari.dll
+C:\Users\ACER\OneDrive\Desktop\C#\DegiskenFaaliyetAlanlari\obj\Debug\net9.0\DegiskenFaaliyetAlanlari.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\DegiskenFaaliyetAlanlari\obj\Debug\net9.0\DegiskenFaaliyetAlanlari.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\DegiskenFaaliyetAlanlari\obj\Debug\net9.0\ref\DegiskenFaaliyetAlanlari.dll

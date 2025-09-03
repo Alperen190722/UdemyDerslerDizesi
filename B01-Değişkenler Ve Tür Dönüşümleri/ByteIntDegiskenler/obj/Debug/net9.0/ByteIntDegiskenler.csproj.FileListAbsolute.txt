@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\ByteIntDegiskenler\bin\Debug\net9.0\ByteIntDegiskenler.exe
+C:\Users\ACER\OneDrive\Desktop\C#\ByteIntDegiskenler\bin\Debug\net9.0\ByteIntDegiskenler.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\ByteIntDegiskenler\bin\Debug\net9.0\ByteIntDegiskenler.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\ByteIntDegiskenler\bin\Debug\net9.0\ByteIntDegiskenler.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ByteIntDegiskenler\bin\Debug\net9.0\ByteIntDegiskenler.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ByteIntDegiskenler\obj\Debug\net9.0\ByteIntDegiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\ByteIntDegiskenler\obj\Debug\net9.0\ByteIntDegiskenler.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ByteIntDegiskenler\obj\Debug\net9.0\ByteIntDegiskenler.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\ByteIntDegiskenler\obj\Debug\net9.0\ByteIntDegiskenler.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ByteIntDegiskenler\obj\Debug\net9.0\ByteIntDegiskenler.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ByteIntDegiskenler\obj\Debug\net9.0\refint\ByteIntDegiskenler.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ByteIntDegiskenler\obj\Debug\net9.0\ByteIntDegiskenler.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ByteIntDegiskenler\obj\Debug\net9.0\ByteIntDegiskenler.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ByteIntDegiskenler\obj\Debug\net9.0\ref\ByteIntDegiskenler.dll

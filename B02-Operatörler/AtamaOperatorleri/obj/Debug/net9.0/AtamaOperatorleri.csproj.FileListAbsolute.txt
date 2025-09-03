@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\AtamaOperatorleri\bin\Debug\net9.0\AtamaOperatorleri.exe
+C:\Users\ACER\OneDrive\Desktop\C#\AtamaOperatorleri\bin\Debug\net9.0\AtamaOperatorleri.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\AtamaOperatorleri\bin\Debug\net9.0\AtamaOperatorleri.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\AtamaOperatorleri\bin\Debug\net9.0\AtamaOperatorleri.dll
+C:\Users\ACER\OneDrive\Desktop\C#\AtamaOperatorleri\bin\Debug\net9.0\AtamaOperatorleri.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\AtamaOperatorleri\obj\Debug\net9.0\AtamaOperatorleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\AtamaOperatorleri\obj\Debug\net9.0\AtamaOperatorleri.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\AtamaOperatorleri\obj\Debug\net9.0\AtamaOperatorleri.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\AtamaOperatorleri\obj\Debug\net9.0\AtamaOperatorleri.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\AtamaOperatorleri\obj\Debug\net9.0\AtamaOperatorleri.dll
+C:\Users\ACER\OneDrive\Desktop\C#\AtamaOperatorleri\obj\Debug\net9.0\refint\AtamaOperatorleri.dll
+C:\Users\ACER\OneDrive\Desktop\C#\AtamaOperatorleri\obj\Debug\net9.0\AtamaOperatorleri.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\AtamaOperatorleri\obj\Debug\net9.0\AtamaOperatorleri.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\AtamaOperatorleri\obj\Debug\net9.0\ref\AtamaOperatorleri.dll

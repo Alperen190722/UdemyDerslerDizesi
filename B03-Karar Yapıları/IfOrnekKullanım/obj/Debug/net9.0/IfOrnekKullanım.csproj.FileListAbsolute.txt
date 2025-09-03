@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\IfOrnekKullanım\bin\Debug\net9.0\IfOrnekKullanım.exe
+C:\Users\ACER\OneDrive\Desktop\C#\IfOrnekKullanım\bin\Debug\net9.0\IfOrnekKullanım.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\IfOrnekKullanım\bin\Debug\net9.0\IfOrnekKullanım.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\IfOrnekKullanım\bin\Debug\net9.0\IfOrnekKullanım.dll
+C:\Users\ACER\OneDrive\Desktop\C#\IfOrnekKullanım\bin\Debug\net9.0\IfOrnekKullanım.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\IfOrnekKullanım\obj\Debug\net9.0\IfOrnekKullanım.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\IfOrnekKullanım\obj\Debug\net9.0\IfOrnekKullanım.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\IfOrnekKullanım\obj\Debug\net9.0\IfOrnekKullanım.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\IfOrnekKullanım\obj\Debug\net9.0\IfOrnekKullanım.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\IfOrnekKullanım\obj\Debug\net9.0\IfOrnekKullanım.dll
+C:\Users\ACER\OneDrive\Desktop\C#\IfOrnekKullanım\obj\Debug\net9.0\refint\IfOrnekKullanım.dll
+C:\Users\ACER\OneDrive\Desktop\C#\IfOrnekKullanım\obj\Debug\net9.0\IfOrnekKullanım.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\IfOrnekKullanım\obj\Debug\net9.0\IfOrnekKullanım.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\IfOrnekKullanım\obj\Debug\net9.0\ref\IfOrnekKullanım.dll

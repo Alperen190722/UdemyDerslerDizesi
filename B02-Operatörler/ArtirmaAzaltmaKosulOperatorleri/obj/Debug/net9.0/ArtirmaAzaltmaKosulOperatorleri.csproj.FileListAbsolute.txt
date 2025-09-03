@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\ArtirmaAzaltmaKosulOperatorleri\bin\Debug\net9.0\ArtirmaAzaltmaKosulOperatorleri.exe
+C:\Users\ACER\OneDrive\Desktop\C#\ArtirmaAzaltmaKosulOperatorleri\bin\Debug\net9.0\ArtirmaAzaltmaKosulOperatorleri.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\ArtirmaAzaltmaKosulOperatorleri\bin\Debug\net9.0\ArtirmaAzaltmaKosulOperatorleri.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\ArtirmaAzaltmaKosulOperatorleri\bin\Debug\net9.0\ArtirmaAzaltmaKosulOperatorleri.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ArtirmaAzaltmaKosulOperatorleri\bin\Debug\net9.0\ArtirmaAzaltmaKosulOperatorleri.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ArtirmaAzaltmaKosulOperatorleri\obj\Debug\net9.0\ArtirmaAzaltmaKosulOperatorleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\ArtirmaAzaltmaKosulOperatorleri\obj\Debug\net9.0\ArtirmaAzaltmaKosulOperatorleri.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ArtirmaAzaltmaKosulOperatorleri\obj\Debug\net9.0\ArtirmaAzaltmaKosulOperatorleri.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\ArtirmaAzaltmaKosulOperatorleri\obj\Debug\net9.0\ArtirmaAzaltmaKosulOperatorleri.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ArtirmaAzaltmaKosulOperatorleri\obj\Debug\net9.0\ArtirmaAzaltmaKosulOperatorleri.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ArtirmaAzaltmaKosulOperatorleri\obj\Debug\net9.0\refint\ArtirmaAzaltmaKosulOperatorleri.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ArtirmaAzaltmaKosulOperatorleri\obj\Debug\net9.0\ArtirmaAzaltmaKosulOperatorleri.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ArtirmaAzaltmaKosulOperatorleri\obj\Debug\net9.0\ArtirmaAzaltmaKosulOperatorleri.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ArtirmaAzaltmaKosulOperatorleri\obj\Debug\net9.0\ref\ArtirmaAzaltmaKosulOperatorleri.dll

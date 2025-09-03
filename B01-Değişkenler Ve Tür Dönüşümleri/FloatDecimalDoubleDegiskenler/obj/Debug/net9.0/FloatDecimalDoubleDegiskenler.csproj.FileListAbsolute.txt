@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\FloatDecimalDoubleDegiskenler\bin\Debug\net9.0\FloatDecimalDoubleDegiskenler.exe
+C:\Users\ACER\OneDrive\Desktop\C#\FloatDecimalDoubleDegiskenler\bin\Debug\net9.0\FloatDecimalDoubleDegiskenler.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\FloatDecimalDoubleDegiskenler\bin\Debug\net9.0\FloatDecimalDoubleDegiskenler.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\FloatDecimalDoubleDegiskenler\bin\Debug\net9.0\FloatDecimalDoubleDegiskenler.dll
+C:\Users\ACER\OneDrive\Desktop\C#\FloatDecimalDoubleDegiskenler\bin\Debug\net9.0\FloatDecimalDoubleDegiskenler.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\FloatDecimalDoubleDegiskenler\obj\Debug\net9.0\FloatDecimalDoubleDegiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\FloatDecimalDoubleDegiskenler\obj\Debug\net9.0\FloatDecimalDoubleDegiskenler.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\FloatDecimalDoubleDegiskenler\obj\Debug\net9.0\FloatDecimalDoubleDegiskenler.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\FloatDecimalDoubleDegiskenler\obj\Debug\net9.0\FloatDecimalDoubleDegiskenler.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\FloatDecimalDoubleDegiskenler\obj\Debug\net9.0\FloatDecimalDoubleDegiskenler.dll
+C:\Users\ACER\OneDrive\Desktop\C#\FloatDecimalDoubleDegiskenler\obj\Debug\net9.0\refint\FloatDecimalDoubleDegiskenler.dll
+C:\Users\ACER\OneDrive\Desktop\C#\FloatDecimalDoubleDegiskenler\obj\Debug\net9.0\FloatDecimalDoubleDegiskenler.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\FloatDecimalDoubleDegiskenler\obj\Debug\net9.0\FloatDecimalDoubleDegiskenler.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\FloatDecimalDoubleDegiskenler\obj\Debug\net9.0\ref\FloatDecimalDoubleDegiskenler.dll

@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseUygulama\bin\Debug\net9.0\SwitchCaseUygulama.exe
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseUygulama\bin\Debug\net9.0\SwitchCaseUygulama.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseUygulama\bin\Debug\net9.0\SwitchCaseUygulama.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseUygulama\bin\Debug\net9.0\SwitchCaseUygulama.dll
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseUygulama\bin\Debug\net9.0\SwitchCaseUygulama.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseUygulama\obj\Debug\net9.0\SwitchCaseUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseUygulama\obj\Debug\net9.0\SwitchCaseUygulama.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseUygulama\obj\Debug\net9.0\SwitchCaseUygulama.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseUygulama\obj\Debug\net9.0\SwitchCaseUygulama.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseUygulama\obj\Debug\net9.0\SwitchCaseUygulama.dll
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseUygulama\obj\Debug\net9.0\refint\SwitchCaseUygulama.dll
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseUygulama\obj\Debug\net9.0\SwitchCaseUygulama.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseUygulama\obj\Debug\net9.0\SwitchCaseUygulama.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SwitchCaseUygulama\obj\Debug\net9.0\ref\SwitchCaseUygulama.dll

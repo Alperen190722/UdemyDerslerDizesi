@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\TurDonusumleri\bin\Debug\net9.0\TurDonusumleri.exe
+C:\Users\ACER\OneDrive\Desktop\C#\TurDonusumleri\bin\Debug\net9.0\TurDonusumleri.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\TurDonusumleri\bin\Debug\net9.0\TurDonusumleri.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\TurDonusumleri\bin\Debug\net9.0\TurDonusumleri.dll
+C:\Users\ACER\OneDrive\Desktop\C#\TurDonusumleri\bin\Debug\net9.0\TurDonusumleri.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\TurDonusumleri\obj\Debug\net9.0\TurDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\TurDonusumleri\obj\Debug\net9.0\TurDonusumleri.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\TurDonusumleri\obj\Debug\net9.0\TurDonusumleri.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\TurDonusumleri\obj\Debug\net9.0\TurDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\TurDonusumleri\obj\Debug\net9.0\TurDonusumleri.dll
+C:\Users\ACER\OneDrive\Desktop\C#\TurDonusumleri\obj\Debug\net9.0\refint\TurDonusumleri.dll
+C:\Users\ACER\OneDrive\Desktop\C#\TurDonusumleri\obj\Debug\net9.0\TurDonusumleri.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\TurDonusumleri\obj\Debug\net9.0\TurDonusumleri.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\TurDonusumleri\obj\Debug\net9.0\ref\TurDonusumleri.dll
