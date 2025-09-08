@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\ForDongusuInceleme\bin\Debug\net9.0\ForDongusuInceleme.exe
+C:\Users\ACER\OneDrive\Desktop\C#\ForDongusuInceleme\bin\Debug\net9.0\ForDongusuInceleme.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\ForDongusuInceleme\bin\Debug\net9.0\ForDongusuInceleme.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\ForDongusuInceleme\bin\Debug\net9.0\ForDongusuInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ForDongusuInceleme\bin\Debug\net9.0\ForDongusuInceleme.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ForDongusuInceleme\obj\Debug\net9.0\ForDongusuInceleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\ForDongusuInceleme\obj\Debug\net9.0\ForDongusuInceleme.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ForDongusuInceleme\obj\Debug\net9.0\ForDongusuInceleme.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\ForDongusuInceleme\obj\Debug\net9.0\ForDongusuInceleme.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ForDongusuInceleme\obj\Debug\net9.0\ForDongusuInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ForDongusuInceleme\obj\Debug\net9.0\refint\ForDongusuInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ForDongusuInceleme\obj\Debug\net9.0\ForDongusuInceleme.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ForDongusuInceleme\obj\Debug\net9.0\ForDongusuInceleme.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ForDongusuInceleme\obj\Debug\net9.0\ref\ForDongusuInceleme.dll

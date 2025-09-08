@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\WhileDongusuInceleme\bin\Debug\net9.0\WhileDongusuInceleme.exe
+C:\Users\ACER\OneDrive\Desktop\C#\WhileDongusuInceleme\bin\Debug\net9.0\WhileDongusuInceleme.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\WhileDongusuInceleme\bin\Debug\net9.0\WhileDongusuInceleme.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\WhileDongusuInceleme\bin\Debug\net9.0\WhileDongusuInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\WhileDongusuInceleme\bin\Debug\net9.0\WhileDongusuInceleme.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\WhileDongusuInceleme\obj\Debug\net9.0\WhileDongusuInceleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\WhileDongusuInceleme\obj\Debug\net9.0\WhileDongusuInceleme.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\WhileDongusuInceleme\obj\Debug\net9.0\WhileDongusuInceleme.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\WhileDongusuInceleme\obj\Debug\net9.0\WhileDongusuInceleme.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\WhileDongusuInceleme\obj\Debug\net9.0\WhileDongusuInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\WhileDongusuInceleme\obj\Debug\net9.0\refint\WhileDongusuInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\WhileDongusuInceleme\obj\Debug\net9.0\WhileDongusuInceleme.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\WhileDongusuInceleme\obj\Debug\net9.0\WhileDongusuInceleme.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\WhileDongusuInceleme\obj\Debug\net9.0\ref\WhileDongusuInceleme.dll

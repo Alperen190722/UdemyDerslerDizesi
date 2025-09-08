@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\DoWhileOrnekUygulama\bin\Debug\net9.0\DoWhileOrnekUygulama.exe
+C:\Users\ACER\OneDrive\Desktop\C#\DoWhileOrnekUygulama\bin\Debug\net9.0\DoWhileOrnekUygulama.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\DoWhileOrnekUygulama\bin\Debug\net9.0\DoWhileOrnekUygulama.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\DoWhileOrnekUygulama\bin\Debug\net9.0\DoWhileOrnekUygulama.dll
+C:\Users\ACER\OneDrive\Desktop\C#\DoWhileOrnekUygulama\bin\Debug\net9.0\DoWhileOrnekUygulama.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\DoWhileOrnekUygulama\obj\Debug\net9.0\DoWhileOrnekUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\DoWhileOrnekUygulama\obj\Debug\net9.0\DoWhileOrnekUygulama.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\DoWhileOrnekUygulama\obj\Debug\net9.0\DoWhileOrnekUygulama.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\DoWhileOrnekUygulama\obj\Debug\net9.0\DoWhileOrnekUygulama.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\DoWhileOrnekUygulama\obj\Debug\net9.0\DoWhileOrnekUygulama.dll
+C:\Users\ACER\OneDrive\Desktop\C#\DoWhileOrnekUygulama\obj\Debug\net9.0\refint\DoWhileOrnekUygulama.dll
+C:\Users\ACER\OneDrive\Desktop\C#\DoWhileOrnekUygulama\obj\Debug\net9.0\DoWhileOrnekUygulama.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\DoWhileOrnekUygulama\obj\Debug\net9.0\DoWhileOrnekUygulama.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\DoWhileOrnekUygulama\obj\Debug\net9.0\ref\DoWhileOrnekUygulama.dll

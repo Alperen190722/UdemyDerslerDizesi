@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\ContinueInceleme\bin\Debug\net9.0\ContinueInceleme.exe
+C:\Users\ACER\OneDrive\Desktop\C#\ContinueInceleme\bin\Debug\net9.0\ContinueInceleme.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\ContinueInceleme\bin\Debug\net9.0\ContinueInceleme.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\ContinueInceleme\bin\Debug\net9.0\ContinueInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ContinueInceleme\bin\Debug\net9.0\ContinueInceleme.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ContinueInceleme\obj\Debug\net9.0\ContinueInceleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\ContinueInceleme\obj\Debug\net9.0\ContinueInceleme.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ContinueInceleme\obj\Debug\net9.0\ContinueInceleme.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\ContinueInceleme\obj\Debug\net9.0\ContinueInceleme.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ContinueInceleme\obj\Debug\net9.0\ContinueInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ContinueInceleme\obj\Debug\net9.0\refint\ContinueInceleme.dll
+C:\Users\ACER\OneDrive\Desktop\C#\ContinueInceleme\obj\Debug\net9.0\ContinueInceleme.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ContinueInceleme\obj\Debug\net9.0\ContinueInceleme.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ContinueInceleme\obj\Debug\net9.0\ref\ContinueInceleme.dll
