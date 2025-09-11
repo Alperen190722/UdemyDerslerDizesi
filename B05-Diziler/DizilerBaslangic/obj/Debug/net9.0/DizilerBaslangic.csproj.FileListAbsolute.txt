@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\DizilerBaslangic\bin\Debug\net9.0\DizilerBaslangic.exe
+C:\Users\ACER\OneDrive\Desktop\C#\DizilerBaslangic\bin\Debug\net9.0\DizilerBaslangic.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\DizilerBaslangic\bin\Debug\net9.0\DizilerBaslangic.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\DizilerBaslangic\bin\Debug\net9.0\DizilerBaslangic.dll
+C:\Users\ACER\OneDrive\Desktop\C#\DizilerBaslangic\bin\Debug\net9.0\DizilerBaslangic.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\DizilerBaslangic\obj\Debug\net9.0\DizilerBaslangic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\DizilerBaslangic\obj\Debug\net9.0\DizilerBaslangic.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\DizilerBaslangic\obj\Debug\net9.0\DizilerBaslangic.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\DizilerBaslangic\obj\Debug\net9.0\DizilerBaslangic.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\DizilerBaslangic\obj\Debug\net9.0\DizilerBaslangic.dll
+C:\Users\ACER\OneDrive\Desktop\C#\DizilerBaslangic\obj\Debug\net9.0\refint\DizilerBaslangic.dll
+C:\Users\ACER\OneDrive\Desktop\C#\DizilerBaslangic\obj\Debug\net9.0\DizilerBaslangic.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\DizilerBaslangic\obj\Debug\net9.0\DizilerBaslangic.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\DizilerBaslangic\obj\Debug\net9.0\ref\DizilerBaslangic.dll

@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\MiniProje-I\bin\Debug\net9.0\MiniProje-I.exe
+C:\Users\ACER\OneDrive\Desktop\C#\MiniProje-I\bin\Debug\net9.0\MiniProje-I.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\MiniProje-I\bin\Debug\net9.0\MiniProje-I.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\MiniProje-I\bin\Debug\net9.0\MiniProje-I.dll
+C:\Users\ACER\OneDrive\Desktop\C#\MiniProje-I\bin\Debug\net9.0\MiniProje-I.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\MiniProje-I\obj\Debug\net9.0\MiniProje-I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\MiniProje-I\obj\Debug\net9.0\MiniProje-I.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MiniProje-I\obj\Debug\net9.0\MiniProje-I.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\MiniProje-I\obj\Debug\net9.0\MiniProje-I.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MiniProje-I\obj\Debug\net9.0\MiniProje-I.dll
+C:\Users\ACER\OneDrive\Desktop\C#\MiniProje-I\obj\Debug\net9.0\refint\MiniProje-I.dll
+C:\Users\ACER\OneDrive\Desktop\C#\MiniProje-I\obj\Debug\net9.0\MiniProje-I.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\MiniProje-I\obj\Debug\net9.0\MiniProje-I.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MiniProje-I\obj\Debug\net9.0\ref\MiniProje-I.dll

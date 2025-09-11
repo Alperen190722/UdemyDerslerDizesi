@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\KullanilanBaziMetotlar\bin\Debug\net9.0\KullanilanBaziMetotlar.exe
+C:\Users\ACER\OneDrive\Desktop\C#\KullanilanBaziMetotlar\bin\Debug\net9.0\KullanilanBaziMetotlar.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\KullanilanBaziMetotlar\bin\Debug\net9.0\KullanilanBaziMetotlar.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\KullanilanBaziMetotlar\bin\Debug\net9.0\KullanilanBaziMetotlar.dll
+C:\Users\ACER\OneDrive\Desktop\C#\KullanilanBaziMetotlar\bin\Debug\net9.0\KullanilanBaziMetotlar.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\KullanilanBaziMetotlar\obj\Debug\net9.0\KullanilanBaziMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\KullanilanBaziMetotlar\obj\Debug\net9.0\KullanilanBaziMetotlar.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\KullanilanBaziMetotlar\obj\Debug\net9.0\KullanilanBaziMetotlar.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\KullanilanBaziMetotlar\obj\Debug\net9.0\KullanilanBaziMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\KullanilanBaziMetotlar\obj\Debug\net9.0\KullanilanBaziMetotlar.dll
+C:\Users\ACER\OneDrive\Desktop\C#\KullanilanBaziMetotlar\obj\Debug\net9.0\refint\KullanilanBaziMetotlar.dll
+C:\Users\ACER\OneDrive\Desktop\C#\KullanilanBaziMetotlar\obj\Debug\net9.0\KullanilanBaziMetotlar.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\KullanilanBaziMetotlar\obj\Debug\net9.0\KullanilanBaziMetotlar.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\KullanilanBaziMetotlar\obj\Debug\net9.0\ref\KullanilanBaziMetotlar.dll

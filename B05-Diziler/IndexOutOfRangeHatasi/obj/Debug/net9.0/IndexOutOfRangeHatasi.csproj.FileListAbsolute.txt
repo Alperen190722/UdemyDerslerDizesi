@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\IndexOutOfRangeHatasi\bin\Debug\net9.0\IndexOutOfRangeHatasi.exe
+C:\Users\ACER\OneDrive\Desktop\C#\IndexOutOfRangeHatasi\bin\Debug\net9.0\IndexOutOfRangeHatasi.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\IndexOutOfRangeHatasi\bin\Debug\net9.0\IndexOutOfRangeHatasi.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\IndexOutOfRangeHatasi\bin\Debug\net9.0\IndexOutOfRangeHatasi.dll
+C:\Users\ACER\OneDrive\Desktop\C#\IndexOutOfRangeHatasi\bin\Debug\net9.0\IndexOutOfRangeHatasi.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\IndexOutOfRangeHatasi\obj\Debug\net9.0\IndexOutOfRangeHatasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\IndexOutOfRangeHatasi\obj\Debug\net9.0\IndexOutOfRangeHatasi.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\IndexOutOfRangeHatasi\obj\Debug\net9.0\IndexOutOfRangeHatasi.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\IndexOutOfRangeHatasi\obj\Debug\net9.0\IndexOutOfRangeHatasi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\IndexOutOfRangeHatasi\obj\Debug\net9.0\IndexOutOfRangeHatasi.dll
+C:\Users\ACER\OneDrive\Desktop\C#\IndexOutOfRangeHatasi\obj\Debug\net9.0\refint\IndexOutOfRangeHatasi.dll
+C:\Users\ACER\OneDrive\Desktop\C#\IndexOutOfRangeHatasi\obj\Debug\net9.0\IndexOutOfRangeHatasi.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\IndexOutOfRangeHatasi\obj\Debug\net9.0\IndexOutOfRangeHatasi.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\IndexOutOfRangeHatasi\obj\Debug\net9.0\ref\IndexOutOfRangeHatasi.dll
