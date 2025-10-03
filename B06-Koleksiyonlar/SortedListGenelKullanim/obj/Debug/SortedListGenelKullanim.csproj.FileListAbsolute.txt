@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\SortedListGenelKullanim\bin\Debug\SortedListGenelKullanim.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\SortedListGenelKullanim\bin\Debug\SortedListGenelKullanim.exe
+C:\Users\ACER\OneDrive\Desktop\C#\SortedListGenelKullanim\bin\Debug\SortedListGenelKullanim.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SortedListGenelKullanim\obj\Debug\SortedListGenelKullanim.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SortedListGenelKullanim\obj\Debug\SortedListGenelKullanim.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SortedListGenelKullanim\obj\Debug\SortedListGenelKullanim.exe
+C:\Users\ACER\OneDrive\Desktop\C#\SortedListGenelKullanim\obj\Debug\SortedListGenelKullanim.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SortedListGenelKullanim\obj\Debug\SortedListGenelKullanim.exe.config

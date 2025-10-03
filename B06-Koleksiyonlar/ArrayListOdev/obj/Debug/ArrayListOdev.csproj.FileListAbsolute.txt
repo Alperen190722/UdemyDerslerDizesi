@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListOdev\bin\Debug\ArrayListOdev.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListOdev\bin\Debug\ArrayListOdev.exe
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListOdev\bin\Debug\ArrayListOdev.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListOdev\obj\Debug\ArrayListOdev.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListOdev\obj\Debug\ArrayListOdev.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListOdev\obj\Debug\ArrayListOdev.exe
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListOdev\obj\Debug\ArrayListOdev.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListOdev\obj\Debug\ArrayListOdev.exe.config

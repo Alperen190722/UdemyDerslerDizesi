@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListGenelKullanim\bin\Debug\ArrayListGenelKullanim.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListGenelKullanim\bin\Debug\ArrayListGenelKullanim.exe
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListGenelKullanim\bin\Debug\ArrayListGenelKullanim.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListGenelKullanim\obj\Debug\ArrayListGenelKullanim.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListGenelKullanim\obj\Debug\ArrayListGenelKullanim.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListGenelKullanim\obj\Debug\ArrayListGenelKullanim.exe
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListGenelKullanim\obj\Debug\ArrayListGenelKullanim.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ArrayListGenelKullanim\obj\Debug\ArrayListGenelKullanim.exe.config
