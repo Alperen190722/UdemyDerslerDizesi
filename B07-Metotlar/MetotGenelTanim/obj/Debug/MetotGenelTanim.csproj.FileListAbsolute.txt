@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\MetotGenelTanim\bin\Debug\MetotGenelTanim.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\MetotGenelTanim\bin\Debug\MetotGenelTanim.exe
+C:\Users\ACER\OneDrive\Desktop\C#\MetotGenelTanim\bin\Debug\MetotGenelTanim.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\MetotGenelTanim\obj\Debug\MetotGenelTanim.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MetotGenelTanim\obj\Debug\MetotGenelTanim.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MetotGenelTanim\obj\Debug\MetotGenelTanim.exe
+C:\Users\ACER\OneDrive\Desktop\C#\MetotGenelTanim\obj\Debug\MetotGenelTanim.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\MetotGenelTanim\obj\Debug\MetotGenelTanim.exe.config

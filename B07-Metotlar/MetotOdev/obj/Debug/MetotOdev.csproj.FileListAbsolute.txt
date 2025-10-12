@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\MetotOdev\bin\Debug\MetotOdev.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\MetotOdev\bin\Debug\MetotOdev.exe
+C:\Users\ACER\OneDrive\Desktop\C#\MetotOdev\bin\Debug\MetotOdev.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\MetotOdev\obj\Debug\MetotOdev.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MetotOdev\obj\Debug\MetotOdev.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MetotOdev\obj\Debug\MetotOdev.exe
+C:\Users\ACER\OneDrive\Desktop\C#\MetotOdev\obj\Debug\MetotOdev.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\MetotOdev\obj\Debug\MetotOdev.exe.config

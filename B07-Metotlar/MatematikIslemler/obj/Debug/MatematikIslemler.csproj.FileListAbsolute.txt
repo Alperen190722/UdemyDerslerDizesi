@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\MatematikIslemler\bin\Debug\MatematikIslemler.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\MatematikIslemler\bin\Debug\MatematikIslemler.exe
+C:\Users\ACER\OneDrive\Desktop\C#\MatematikIslemler\bin\Debug\MatematikIslemler.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\MatematikIslemler\obj\Debug\MatematikIslemler.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MatematikIslemler\obj\Debug\MatematikIslemler.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\MatematikIslemler\obj\Debug\MatematikIslemler.exe
+C:\Users\ACER\OneDrive\Desktop\C#\MatematikIslemler\obj\Debug\MatematikIslemler.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\MatematikIslemler\obj\Debug\MatematikIslemler.exe.config

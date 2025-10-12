@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\AsiriYuklenmek\bin\Debug\AsiriYuklenmek.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\AsiriYuklenmek\bin\Debug\AsiriYuklenmek.exe
+C:\Users\ACER\OneDrive\Desktop\C#\AsiriYuklenmek\bin\Debug\AsiriYuklenmek.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\AsiriYuklenmek\obj\Debug\AsiriYuklenmek.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\AsiriYuklenmek\obj\Debug\AsiriYuklenmek.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\AsiriYuklenmek\obj\Debug\AsiriYuklenmek.exe
+C:\Users\ACER\OneDrive\Desktop\C#\AsiriYuklenmek\obj\Debug\AsiriYuklenmek.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\AsiriYuklenmek\obj\Debug\AsiriYuklenmek.exe.config
