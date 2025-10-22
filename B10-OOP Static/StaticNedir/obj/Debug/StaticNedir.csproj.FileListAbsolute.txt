@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\C#\StaticNedir\bin\Debug\StaticNedir.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\StaticNedir\bin\Debug\StaticNedir.exe
+C:\Users\ACER\OneDrive\Desktop\C#\StaticNedir\bin\Debug\StaticNedir.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\StaticNedir\obj\Debug\StaticNedir.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\StaticNedir\obj\Debug\StaticNedir.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\StaticNedir\obj\Debug\StaticNedir.exe
+C:\Users\ACER\OneDrive\Desktop\C#\StaticNedir\obj\Debug\StaticNedir.pdb

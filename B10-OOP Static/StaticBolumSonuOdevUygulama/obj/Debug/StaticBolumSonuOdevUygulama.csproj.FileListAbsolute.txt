@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\StaticBolumSonuOdevUygulama\bin\Debug\StaticBolumSonuOdevUygulama.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\StaticBolumSonuOdevUygulama\bin\Debug\StaticBolumSonuOdevUygulama.exe
+C:\Users\ACER\OneDrive\Desktop\C#\StaticBolumSonuOdevUygulama\bin\Debug\StaticBolumSonuOdevUygulama.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\StaticBolumSonuOdevUygulama\obj\Debug\StaticBolumSonuOdevUygulama.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\StaticBolumSonuOdevUygulama\obj\Debug\StaticBolumSonuOdevUygulama.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\StaticBolumSonuOdevUygulama\obj\Debug\StaticBolumSonuOdevUygulama.exe
+C:\Users\ACER\OneDrive\Desktop\C#\StaticBolumSonuOdevUygulama\obj\Debug\StaticBolumSonuOdevUygulama.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\StaticBolumSonuOdevUygulama\obj\Debug\StaticBolumSonuOdevUygulama.exe.config

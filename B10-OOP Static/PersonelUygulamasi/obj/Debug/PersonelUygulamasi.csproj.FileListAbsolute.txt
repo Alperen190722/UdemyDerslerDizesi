@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\PersonelUygulamasi\bin\Debug\PersonelUygulamasi.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\PersonelUygulamasi\bin\Debug\PersonelUygulamasi.exe
+C:\Users\ACER\OneDrive\Desktop\C#\PersonelUygulamasi\bin\Debug\PersonelUygulamasi.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\PersonelUygulamasi\obj\Debug\PersonelUygulamasi.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\PersonelUygulamasi\obj\Debug\PersonelUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\PersonelUygulamasi\obj\Debug\PersonelUygulamasi.exe
+C:\Users\ACER\OneDrive\Desktop\C#\PersonelUygulamasi\obj\Debug\PersonelUygulamasi.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\PersonelUygulamasi\obj\Debug\PersonelUygulamasi.exe.config
