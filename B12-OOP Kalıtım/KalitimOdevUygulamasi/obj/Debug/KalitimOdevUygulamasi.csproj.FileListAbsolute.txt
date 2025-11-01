@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\KalitimOdevUygulamasi\bin\Debug\KalitimOdevUygulamasi.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\KalitimOdevUygulamasi\bin\Debug\KalitimOdevUygulamasi.exe
+C:\Users\ACER\OneDrive\Desktop\C#\KalitimOdevUygulamasi\bin\Debug\KalitimOdevUygulamasi.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\KalitimOdevUygulamasi\obj\Debug\KalitimOdevUygulamasi.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\KalitimOdevUygulamasi\obj\Debug\KalitimOdevUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\KalitimOdevUygulamasi\obj\Debug\KalitimOdevUygulamasi.exe
+C:\Users\ACER\OneDrive\Desktop\C#\KalitimOdevUygulamasi\obj\Debug\KalitimOdevUygulamasi.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\KalitimOdevUygulamasi\obj\Debug\KalitimOdevUygulamasi.exe.config
