@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotNedir\bin\Debug\SanalMetotNedir.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotNedir\bin\Debug\SanalMetotNedir.exe
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotNedir\bin\Debug\SanalMetotNedir.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotNedir\obj\Debug\SanalMetotNedir.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotNedir\obj\Debug\SanalMetotNedir.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotNedir\obj\Debug\SanalMetotNedir.exe
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotNedir\obj\Debug\SanalMetotNedir.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotNedir\obj\Debug\SanalMetotNedir.exe.config

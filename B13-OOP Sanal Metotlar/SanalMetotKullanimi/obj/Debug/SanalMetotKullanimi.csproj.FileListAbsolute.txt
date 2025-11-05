@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotKullanimi\bin\Debug\SanalMetotKullanimi.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotKullanimi\bin\Debug\SanalMetotKullanimi.exe
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotKullanimi\bin\Debug\SanalMetotKullanimi.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotKullanimi\obj\Debug\SanalMetotKullanimi.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotKullanimi\obj\Debug\SanalMetotKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotKullanimi\obj\Debug\SanalMetotKullanimi.exe
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotKullanimi\obj\Debug\SanalMetotKullanimi.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SanalMetotKullanimi\obj\Debug\SanalMetotKullanimi.exe.config
