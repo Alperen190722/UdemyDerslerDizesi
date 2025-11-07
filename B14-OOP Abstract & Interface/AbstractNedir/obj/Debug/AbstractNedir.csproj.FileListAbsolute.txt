@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractNedir\bin\Debug\AbstractNedir.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractNedir\bin\Debug\AbstractNedir.exe
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractNedir\bin\Debug\AbstractNedir.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractNedir\obj\Debug\AbstractNedir.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractNedir\obj\Debug\AbstractNedir.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractNedir\obj\Debug\AbstractNedir.exe
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractNedir\obj\Debug\AbstractNedir.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractNedir\obj\Debug\AbstractNedir.exe.config
