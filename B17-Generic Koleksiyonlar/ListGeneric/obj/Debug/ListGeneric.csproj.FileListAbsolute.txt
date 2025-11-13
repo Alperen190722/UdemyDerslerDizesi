@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\ListGeneric\bin\Debug\ListGeneric.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\ListGeneric\bin\Debug\ListGeneric.exe
+C:\Users\ACER\OneDrive\Desktop\C#\ListGeneric\bin\Debug\ListGeneric.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ListGeneric\obj\Debug\ListGeneric.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ListGeneric\obj\Debug\ListGeneric.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\ListGeneric\obj\Debug\ListGeneric.exe
+C:\Users\ACER\OneDrive\Desktop\C#\ListGeneric\obj\Debug\ListGeneric.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\ListGeneric\obj\Debug\ListGeneric.exe.config
