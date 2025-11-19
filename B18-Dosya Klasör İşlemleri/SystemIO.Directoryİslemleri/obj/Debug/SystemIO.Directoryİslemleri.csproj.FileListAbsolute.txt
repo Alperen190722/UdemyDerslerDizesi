@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.Directoryİslemleri\bin\Debug\SystemIO.Directoryİslemleri.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.Directoryİslemleri\bin\Debug\SystemIO.Directoryİslemleri.exe
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.Directoryİslemleri\bin\Debug\SystemIO.Directoryİslemleri.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.Directoryİslemleri\obj\Debug\SystemIO.Directoryİslemleri.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.Directoryİslemleri\obj\Debug\SystemIO.Directoryİslemleri.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.Directoryİslemleri\obj\Debug\SystemIO.Directoryİslemleri.exe
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.Directoryİslemleri\obj\Debug\SystemIO.Directoryİslemleri.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.Directoryİslemleri\obj\Debug\SystemIO.Directoryİslemleri.exe.config

@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIOWinForm\bin\Debug\SystemIOWinForm.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIOWinForm\bin\Debug\SystemIOWinForm.exe
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIOWinForm\bin\Debug\SystemIOWinForm.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIOWinForm\bin\Debug\FakeData.dll
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIOWinForm\bin\Debug\FakeData.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIOWinForm\obj\Debug\SystemIOWinForm.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIOWinForm\obj\Debug\SystemIOWinForm.Form1.resources
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIOWinForm\obj\Debug\SystemIOWinForm.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIOWinForm\obj\Debug\SystemIOWinForm.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIOWinForm\obj\Debug\SystemIOWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIOWinForm\obj\Debug\SystemIO.619B133D.Up2Date
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIOWinForm\obj\Debug\SystemIOWinForm.exe
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIOWinForm\obj\Debug\SystemIOWinForm.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIOWinForm\obj\Debug\SystemIOWinForm.exe.config

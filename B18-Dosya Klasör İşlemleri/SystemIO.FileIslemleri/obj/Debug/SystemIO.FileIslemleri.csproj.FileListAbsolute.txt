@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.FileIslemleri\bin\Debug\SystemIO.FileIslemleri.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.FileIslemleri\bin\Debug\SystemIO.FileIslemleri.exe
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.FileIslemleri\bin\Debug\SystemIO.FileIslemleri.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.FileIslemleri\obj\Debug\SystemIO.FileIslemleri.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.FileIslemleri\obj\Debug\SystemIO.FileIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.FileIslemleri\obj\Debug\SystemIO.FileIslemleri.exe
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.FileIslemleri\obj\Debug\SystemIO.FileIslemleri.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\SystemIO.FileIslemleri\obj\Debug\SystemIO.FileIslemleri.exe.config

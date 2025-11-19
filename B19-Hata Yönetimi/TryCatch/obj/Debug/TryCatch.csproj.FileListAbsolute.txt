@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Desktop\C#\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\ACER\OneDrive\Desktop\C#\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\ACER\OneDrive\Desktop\C#\TryCatch\obj\Debug\TryCatch.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\TryCatch\obj\Debug\TryCatch.exe.config
