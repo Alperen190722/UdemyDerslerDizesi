@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|c:\\users\\acer\\onedrive\\desktop\\otomasyon sistemlerim\\emlakotomasyonu\\emlakotomasyonu\\yonetici.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|solutionrelative:emlakotomasyonu\\yonetici.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\emlakotomasyonu\\satinalinanlar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|solutionrelative:emlakotomasyonu\\satinalinanlar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\emlakotomasyonu\\kayit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|solutionrelative:emlakotomasyonu\\kayit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\emlakotomasyonu\\yonetici.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|solutionrelative:emlakotomasyonu\\yonetici.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\emlakotomasyonu\\musteri.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|solutionrelative:emlakotomasyonu\\musteri.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\emlakotomasyonu\\kayit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|solutionrelative:emlakotomasyonu\\kayit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\emlakotomasyonu\\satinalinanlar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|solutionrelative:emlakotomasyonu\\satinalinanlar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\emlakotomasyonu\\musteri.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|solutionrelative:emlakotomasyonu\\musteri.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\emlakotomasyonu\\kiralananlar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|solutionrelative:emlakotomasyonu\\kiralananlar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\emlakotomasyonu\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|solutionrelative:emlakotomasyonu\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\emlakotomasyonu\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|solutionrelative:emlakotomasyonu\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\emlakotomasyonu\\kiralananlar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D11CF9B6-A41A-4B19-9454-6FE35443AA52}|EmlakOtomasyonu\\EmlakOtomasyonu.vbproj|solutionrelative:emlakotomasyonu\\kiralananlar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YONETICI.vb",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\YONETICI.vb",
+              "RelativeDocumentMoniker": "EmlakOtomasyonu\\YONETICI.vb",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\YONETICI.vb",
+              "RelativeToolTip": "EmlakOtomasyonu\\YONETICI.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-03T07:48:43.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SATINALINANLAR.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\SATINALINANLAR.vb",
+              "RelativeDocumentMoniker": "EmlakOtomasyonu\\SATINALINANLAR.vb",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\SATINALINANLAR.vb [Design]",
+              "RelativeToolTip": "EmlakOtomasyonu\\SATINALINANLAR.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-03T21:24:35.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KAYIT.vb",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\KAYIT.vb",
+              "RelativeDocumentMoniker": "EmlakOtomasyonu\\KAYIT.vb",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\KAYIT.vb",
+              "RelativeToolTip": "EmlakOtomasyonu\\KAYIT.vb",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-03T08:11:13.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YONETICI.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\YONETICI.vb",
+              "RelativeDocumentMoniker": "EmlakOtomasyonu\\YONETICI.vb",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\YONETICI.vb [Design]",
+              "RelativeToolTip": "EmlakOtomasyonu\\YONETICI.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-03T08:05:36.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SATINALINANLAR.vb",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\SATINALINANLAR.vb",
+              "RelativeDocumentMoniker": "EmlakOtomasyonu\\SATINALINANLAR.vb",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\SATINALINANLAR.vb",
+              "RelativeToolTip": "EmlakOtomasyonu\\SATINALINANLAR.vb",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAJsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-03T21:25:59.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MUSTERI.vb [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\MUSTERI.vb",
+              "RelativeDocumentMoniker": "EmlakOtomasyonu\\MUSTERI.vb",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Hatice hocaya g\u00F6sterilecekler\\EmlakOtomasyonu\\EmlakOtomasyonu\\MUSTERI.vb [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Hatice hocaya g\u00F6sterilecekler\\EmlakOtomasyonu\\EmlakOtomasyonu\\MUSTERI.vb [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-03T10:37:56.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MUSTERI.vb",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\MUSTERI.vb",
+              "RelativeDocumentMoniker": "EmlakOtomasyonu\\MUSTERI.vb",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\MUSTERI.vb",
+              "RelativeToolTip": "EmlakOtomasyonu\\MUSTERI.vb",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAAAIAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-03T10:37:59.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KAYIT.vb [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\KAYIT.vb",
+              "RelativeDocumentMoniker": "EmlakOtomasyonu\\KAYIT.vb",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\KAYIT.vb [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\KAYIT.vb [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-03T08:11:10.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KIRALANANLAR.vb",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\KIRALANANLAR.vb",
+              "RelativeDocumentMoniker": "EmlakOtomasyonu\\KIRALANANLAR.vb",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\KIRALANANLAR.vb",
+              "RelativeToolTip": "EmlakOtomasyonu\\KIRALANANLAR.vb",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAKEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-05T10:57:42.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\Form1.vb",
+              "RelativeDocumentMoniker": "EmlakOtomasyonu\\Form1.vb",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\Form1.vb",
+              "RelativeToolTip": "EmlakOtomasyonu\\Form1.vb",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-21T12:14:56.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.vb [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\Form1.vb",
+              "RelativeDocumentMoniker": "EmlakOtomasyonu\\Form1.vb",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Hatice hocaya g\u00F6sterilecekler\\EmlakOtomasyonu\\EmlakOtomasyonu\\Form1.vb [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Hatice hocaya g\u00F6sterilecekler\\EmlakOtomasyonu\\EmlakOtomasyonu\\Form1.vb [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-21T12:14:50.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KIRALANANLAR.vb [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\Otomasyon Sistemlerim\\EmlakOtomasyonu\\EmlakOtomasyonu\\KIRALANANLAR.vb",
+              "RelativeDocumentMoniker": "EmlakOtomasyonu\\KIRALANANLAR.vb",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Hatice hocaya g\u00F6sterilecekler\\EmlakOtomasyonu\\EmlakOtomasyonu\\KIRALANANLAR.vb [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Hatice hocaya g\u00F6sterilecekler\\EmlakOtomasyonu\\EmlakOtomasyonu\\KIRALANANLAR.vb [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-04T00:19:06.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

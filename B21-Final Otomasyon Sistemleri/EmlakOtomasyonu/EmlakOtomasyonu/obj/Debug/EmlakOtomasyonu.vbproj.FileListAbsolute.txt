@@ -1,0 +1,47 @@
+C:\Users\ACER\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe.config
+C:\Users\ACER\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe
+C:\Users\ACER\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.pdb
+C:\Users\ACER\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.xml
+C:\Users\ACER\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.Resources.resources
+C:\Users\ACER\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.GenerateResource.cache
+C:\Users\ACER\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.exe
+C:\Users\ACER\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.xml
+C:\Users\ACER\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.pdb
+C:\Users\ACER\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.Form1.resources
+C:\Users\ACER\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.KAYIT.resources
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe.config
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.pdb
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.xml
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.Form1.resources
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.KAYIT.resources
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.Resources.resources
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.YONETICI.resources
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.exe
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.xml
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.pdb
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.MUSTERI.resources
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.SATINALINANLAR.resources
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.KIRALANANLAR.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe.config
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.pdb
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.xml
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.Form1.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.KAYIT.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.KIRALANANLAR.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.MUSTERI.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.Resources.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.SATINALINANLAR.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.YONETICI.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.exe
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.xml
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.pdb

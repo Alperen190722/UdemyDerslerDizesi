@@ -1,0 +1,28 @@
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\Araba Kiralama\Araba Kiralama\bin\Debug\Araba Kiralama.exe.config
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\Araba Kiralama\Araba Kiralama\bin\Debug\Araba Kiralama.exe
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\Araba Kiralama\Araba Kiralama\bin\Debug\Araba Kiralama.pdb
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\Araba Kiralama\Araba Kiralama\obj\Debug\Araba Kiralama.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\Araba Kiralama\Araba Kiralama\obj\Debug\Araba_Kiralama.Properties.Resources.resources
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\Araba Kiralama\Araba Kiralama\obj\Debug\Araba Kiralama.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\Araba Kiralama\Araba Kiralama\obj\Debug\Araba Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\Araba Kiralama\Araba Kiralama\obj\Debug\Araba Kiralama.exe
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\Araba Kiralama\Araba Kiralama\obj\Debug\Araba Kiralama.pdb
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\Araba Kiralama\Araba Kiralama\obj\Debug\Araba_Kiralama.GİRİS.resources
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\Araba Kiralama\Araba Kiralama\obj\Debug\Araba_Kiralama.KAYIT.resources
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\Araba Kiralama\Araba Kiralama\obj\Debug\Araba_Kiralama.YÖNETİCİ.resources
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\Araba Kiralama\Araba Kiralama\obj\Debug\Araba_Kiralama.BAKİYE.resources
+C:\Users\ACER\Desktop\Hatice hocaya gösterilecekler\Araba Kiralama\Araba Kiralama\obj\Debug\Araba_Kiralama.MÜŞTERİ.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\Araba Kiralama\Araba Kiralama\bin\Debug\Araba Kiralama.exe.config
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\Araba Kiralama\Araba Kiralama\bin\Debug\Araba Kiralama.exe
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\Araba Kiralama\Araba Kiralama\bin\Debug\Araba Kiralama.pdb
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\Araba Kiralama\Araba Kiralama\obj\Debug\Araba Kiralama.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\Araba Kiralama\Araba Kiralama\obj\Debug\Araba_Kiralama.BAKİYE.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\Araba Kiralama\Araba Kiralama\obj\Debug\Araba_Kiralama.GİRİS.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\Araba Kiralama\Araba Kiralama\obj\Debug\Araba_Kiralama.KAYIT.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\Araba Kiralama\Araba Kiralama\obj\Debug\Araba_Kiralama.MÜŞTERİ.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\Araba Kiralama\Araba Kiralama\obj\Debug\Araba_Kiralama.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\Araba Kiralama\Araba Kiralama\obj\Debug\Araba_Kiralama.YÖNETİCİ.resources
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\Araba Kiralama\Araba Kiralama\obj\Debug\Araba Kiralama.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\Araba Kiralama\Araba Kiralama\obj\Debug\Araba Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\Araba Kiralama\Araba Kiralama\obj\Debug\Araba Kiralama.exe
+C:\Users\ACER\OneDrive\Desktop\Otomasyon Sistemlerim\Araba Kiralama\Araba Kiralama\obj\Debug\Araba Kiralama.pdb
