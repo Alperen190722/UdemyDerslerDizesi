@@ -1,0 +1,11 @@
+C:\Users\ACER\OneDrive\Desktop\C#\LinqTeknolojisi\bin\Debug\LinqTeknolojisi.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\LinqTeknolojisi\bin\Debug\LinqTeknolojisi.exe
+C:\Users\ACER\OneDrive\Desktop\C#\LinqTeknolojisi\bin\Debug\LinqTeknolojisi.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\LinqTeknolojisi\bin\Debug\FakeData.dll
+C:\Users\ACER\OneDrive\Desktop\C#\LinqTeknolojisi\bin\Debug\FakeData.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\LinqTeknolojisi\obj\Debug\LinqTeknolojisi.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\LinqTeknolojisi\obj\Debug\LinqTeknolojisi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\LinqTeknolojisi\obj\Debug\LinqTekn.6840AB6F.Up2Date
+C:\Users\ACER\OneDrive\Desktop\C#\LinqTeknolojisi\obj\Debug\LinqTeknolojisi.exe
+C:\Users\ACER\OneDrive\Desktop\C#\LinqTeknolojisi\obj\Debug\LinqTeknolojisi.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\LinqTeknolojisi\obj\Debug\LinqTeknolojisi.exe.config
